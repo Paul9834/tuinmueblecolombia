@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbdc5950-0cb1-4a94-b312-b85ce92c7f89" name="Default Changelist" comment="update route">
-      <change afterPath="$PROJECT_DIR$/tuinmueblecolombia/.htaccess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/config/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/tuinmueblecolombia/config/config.php" afterDir="false" />
-    </list>
+    <list default="true" id="dbdc5950-0cb1-4a94-b312-b85ce92c7f89" name="Default Changelist" comment="update route" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +49,7 @@
       <workItem from="1618189977262" duration="288000" />
       <workItem from="1618193535791" duration="333000" />
       <workItem from="1618193897161" duration="5341000" />
-      <workItem from="1618239663217" duration="3878000" />
+      <workItem from="1618239663217" duration="4267000" />
     </task>
     <task id="LOCAL-00001" summary="added index.php - language default php for heroku deploy">
       <created>1618201213488</created>
@@ -111,7 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1618242754890</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update route">
+      <created>1618243624390</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1618243624390</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update route">
+      <created>1618243815082</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1618243815082</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
