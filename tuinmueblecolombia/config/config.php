@@ -1,6 +1,6 @@
 <?php 
 // RUTA PRINCIPAL
-define('RUTA', 'https://lainmobiliariaco.herokuapp.com//tuinmueblecolombia/');
+define('RUTA', 'https://lainmobiliariaco.herokuapp.com/tuinmueblecolombia/');
 
 define('ENTIDAD', 'Tu Inmueble');
 define('TITULO', 'Tu Inmueble');
