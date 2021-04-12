@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbdc5950-0cb1-4a94-b312-b85ce92c7f89" name="Default Changelist" comment="test removed .htaaccess">
+    <list default="true" id="dbdc5950-0cb1-4a94-b312-b85ce92c7f89" name="Default Changelist" comment="update route">
+      <change afterPath="$PROJECT_DIR$/tuinmueblecolombia/.htaccess" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/config/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/tuinmueblecolombia/config/config.php" afterDir="false" />
     </list>
@@ -52,7 +53,7 @@
       <workItem from="1618189977262" duration="288000" />
       <workItem from="1618193535791" duration="333000" />
       <workItem from="1618193897161" duration="5341000" />
-      <workItem from="1618239663217" duration="2915000" />
+      <workItem from="1618239663217" duration="3878000" />
     </task>
     <task id="LOCAL-00001" summary="added index.php - language default php for heroku deploy">
       <created>1618201213488</created>
@@ -96,7 +97,21 @@
       <option name="project" value="LOCAL" />
       <updated>1618242243361</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update route">
+      <created>1618242623555</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1618242623555</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update route">
+      <created>1618242754890</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1618242754890</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,9 +132,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added index.php - language default php for heroku deploy" />
     <MESSAGE value="update connection db" />
-    <MESSAGE value="update route" />
     <MESSAGE value="test .htaaccess" />
     <MESSAGE value="test removed .htaaccess" />
-    <option name="LAST_COMMIT_MESSAGE" value="test removed .htaaccess" />
+    <MESSAGE value="update route" />
+    <option name="LAST_COMMIT_MESSAGE" value="update route" />
   </component>
 </project>
