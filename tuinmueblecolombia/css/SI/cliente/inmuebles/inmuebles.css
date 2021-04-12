@@ -1,0 +1,49 @@
+.btnaddInm{
+	display: flex;
+	align-items: center;
+	height: 40px;
+	color: #333;
+	transition: .2s;
+}
+.btnaddInm i{
+	background: #F39C12;
+	color: #fff;
+	padding: 8px;
+	border-radius: 50%;
+	overflow: hidden;
+	margin: 0px .5rem;
+}
+.btnaddInm:hover{
+	color: #909497;
+}
+.btnaddInm:hover i{
+	text-decoration: none;
+}
+.descrinmu{
+	width: 100%;
+	color: #333;
+}
+.descrinmu i{
+	color: #BDC3C7;
+}
+.descrinmu input{
+	width: 2rem;
+	border: .5px solid #BDC3C7;
+	border-radius: 3px;
+	outline: none;
+	color: #333;
+}
+.descrinmu input.inmpesplarge{
+	width: 6rem;
+}
+.descrAddcont textarea{
+	width: 100%;
+	max-width: 100%;
+	min-width: 100%;
+	height: 105px;
+	max-height: 105px;
+	min-height: 105px;
+}
+.imginmb{
+	height: 200px;
+}
