@@ -1,164 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbdc5950-0cb1-4a94-b312-b85ce92c7f89" name="Default Changelist" comment="update route">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalogo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/etalage.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fwslider.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/jquery.fancybox.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/magnific-popup.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG/dan-gold-Q1zJtNdMEQY-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG/jimmy-dean-_GoBSreu1a4-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG/naomi-hebert-MP0bgaS_d1c-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Logo3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/arrows.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/arrows.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/as.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/casita.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/close.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/close.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/currency.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/edit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fancybox_sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-sprite.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/marker.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/nav.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/nz.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pk.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/search.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/wish.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/zoom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/classie.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/fwslider.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-ui.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.etalage.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.fancybox.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.flexisel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.magnific-popup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/responsive-nav.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/uisearch.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/.idea/php.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/.idea/tuinmueblecolombia.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/SI/cliente/cliente.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/SI/cliente/configuracion/configuracion.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/SI/cliente/inmuebles/inmuebles.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/SI/dashboard/dashboard.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/SI/login/login.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/config/cerrarSesion.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/config/clases/conexion.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/config/clases/inmueble/inmueble.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/config/clases/obj/objetos.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/config/clases/user/usuario.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/config/config.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/config/direccion.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/config/funciones.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/Bootstrap/animation.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/Bootstrap/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/Bootstrap/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/Bootstrap/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/Bootstrap/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/Bootstrap/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/Bootstrap/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/Bootstrap/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/Bootstrap/bootstrap-reboot.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/Bootstrap/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/Bootstrap/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/Bootstrap/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/Bootstrap/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/SI/cliente/inmuebles/inmuebles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/SI/dashboard/dashboard.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/SI/login/login.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/SI/sistema/configuracion.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/SI/sistema/sistema.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/fuentes/AnaleighDemo.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/fuentes/BeGreatFontsa.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/fuentes/BebasNeue-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/fuentes/Bubble Mint.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/fuentes/Diana.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/fuentes/DianaBook.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/fuentes/DieinafirePG.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/fuentes/Florence-Regular.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/fuentes/GROBOLD.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/fuentes/LEMONMILK-Regular.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/fuentes/Monkey.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/fuentes/Muro.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/fuentes/NOVABOLD.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/fuentes/Night Machine.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/fuentes/Redro.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/fuentes/SummitAttack.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/fuentes/SweetyStrawberry.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/fuentes/Trampolinedemo.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/css/fuentes/jcandlestickexpand.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/img/img/apartment-1851201_1280.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/img/img/apartment-406901_1280.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/img/img/furniture-998265_1280.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/img/img/interior-2685521_1280.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/img/img/kitchen-3266752_1920.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/img/img/unnamedinm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/js/Bootstrap/bootstrap.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/js/Bootstrap/bootstrap.bundle.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/js/Bootstrap/bootstrap.bundle.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/js/Bootstrap/bootstrap.bundle.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/js/Bootstrap/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/js/Bootstrap/bootstrap.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/js/Bootstrap/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/js/Bootstrap/bootstrap.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/js/Bootstrap/jquery-3.2.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/js/Bootstrap/jquery-3.3.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/js/Bootstrap/jquery-3.3.1.slim.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/js/Bootstrap/popper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/js/SI/cliente/configuracion/configuracion.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/js/SI/cliente/inmuebles/inmuebles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/js/SI/dashboard/dashboard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/js/SI/login/login.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/js/SI/sistema/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/php/cliente/configuracion/editar.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/php/cliente/inmuebles/insert.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/php/cliente/inmuebles/list.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/php/cliente/inmuebles/select.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/php/cliente/inmuebles/update.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/php/login/login.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/php/login/registro.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/views/cliente/cliente.view.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/views/cliente/configuracion/configuracion.view.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/views/cliente/inmuebles/inmuebles.view.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/views/login/login.view.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuinmueblecolombia/views/sistem/index.view.php" beforeDir="false" />
-    </list>
+    <list default="true" id="dbdc5950-0cb1-4a94-b312-b85ce92c7f89" name="Default Changelist" comment="refactor proyect route" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -190,6 +33,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\melo1\Desktop\Abril 2021\tuinmueblecolombia\db" />
       <recent name="C:\Users\melo1\Desktop\Abril 2021\tuinmueblecolombia\base" />
       <recent name="C:\Users\melo1\Desktop\Abril 2021\tuinmueblecolombia\tuinmueblecolombia" />
       <recent name="C:\Users\melo1\Desktop\Abril 2021\tuinmueblecolombia" />
@@ -207,7 +51,7 @@
       <workItem from="1618189977262" duration="288000" />
       <workItem from="1618193535791" duration="333000" />
       <workItem from="1618193897161" duration="5341000" />
-      <workItem from="1618239663217" duration="5812000" />
+      <workItem from="1618239663217" duration="6180000" />
     </task>
     <task id="LOCAL-00001" summary="added index.php - language default php for heroku deploy">
       <created>1618201213488</created>
@@ -300,7 +144,21 @@
       <option name="project" value="LOCAL" />
       <updated>1618244378051</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="refactor proyect route">
+      <created>1618247919129</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1618247919129</updated>
+    </task>
+    <task id="LOCAL-00015" summary="refactor proyect route">
+      <created>1618248098320</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1618248098321</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,6 +182,7 @@
     <MESSAGE value="test .htaaccess" />
     <MESSAGE value="test removed .htaaccess" />
     <MESSAGE value="update route" />
-    <option name="LAST_COMMIT_MESSAGE" value="update route" />
+    <MESSAGE value="refactor proyect route" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor proyect route" />
   </component>
 </project>
