@@ -12,6 +12,24 @@ class inmueble {
 		$statement->execute(array(':usuario' => $usuario));
 		return $statement->fetchAll();
 	}
+	public function listInmuebleAll(){
+		$con = new conexion();
+		$conexion = $con->conexion();
+		$statement = $conexion->prepare("SELECT a.id_inmueble, 
+											a.nombre, 
+											IFNULL((SELECT b.foto FROM fotos b WHERE b.id_inmueble = a.id_inmueble LIMIT 1),'unnamedinm.png') AS foto, 
+											c.estado, 
+											CONCAT('$',FORMAT(a.costo,2)) AS costo,
+											d.tipo,
+											e.opcion
+										FROM inmueble a 
+											LEFT JOIN estado c ON a.estado = c.idestado
+											LEFT JOIN tipo_inmueble d ON a.tipo = d.id_tipo
+											LEFT JOIN opcion_inmueble e ON a.opcion = e.id_opcion
+										WHERE a.estado = 1");
+		$statement->execute();
+		return $statement->fetchAll();
+	}
 	// INSERTAR INMUEBLE
 	public function insertInmueble($datos){
 		$con = new conexion();
