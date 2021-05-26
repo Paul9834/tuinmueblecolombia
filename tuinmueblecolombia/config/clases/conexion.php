@@ -1,9 +1,9 @@
 <?php 
 class conexion{
-	private $servidor="198.52.110.228";
-	private $usuario="daniel";
-	private $bd="tu_inmueble_co";
-	private $password="rkj71MfM";
+	private $servidor="tvcpw8tpu4jvgnnq.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+	private $usuario="h3wjp2gusc5xgpd5";
+	private $bd="vcwmpas5owm5kxid";
+	private $password="nqe61rwmdd1oz3mg";
 
 	public function conexion(){
 		try {
