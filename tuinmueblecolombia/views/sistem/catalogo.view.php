@@ -100,8 +100,9 @@
 			<img src="<?php echo RUTA; ?>disenio/images/logo.png" alt="">
 		</div>
 		<nav>
-			<a href="" class="nav_link">Inmuebles</a>
-			<a href="" class="nav_link">Iniciar Sesión</a>
+			<a href="<?php echo RUTA; ?>" class="nav_link">Inicio</a>
+			<a href="<?php echo RUTA; ?>SI/catalogo/catalogo" class="nav_link">Inmuebles</a>
+			<a href="<?php echo RUTA; ?>SI/login/login" class="nav_link">Iniciar Sesión</a>
 		</nav>
 	</header>
 
